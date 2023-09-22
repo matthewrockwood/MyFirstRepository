@@ -7,8 +7,6 @@ public class Main {
 		boolean uk = false;
 		String ssd = "food";
 		
-		
-		
 		Scanner scanner= new Scanner(System.in); 
 		
 		System.out.println("What is your name?");
